@@ -1,3 +1,3 @@
 # Packback DevOps Code Challenge
 
-This repo is used for our DevOps code challenge. If you have questions about the challenge, please contact the engineering team at Packback.
+This repo is used for the DevOps code challenge at Packback. If you have questions about the challenge, please contact the Packback engineering team.
